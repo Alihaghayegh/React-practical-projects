@@ -5,4 +5,5 @@
 ## This is a list of project:
 
 - [x] Counter App
+- [x] Todo App
 - [ ] 
