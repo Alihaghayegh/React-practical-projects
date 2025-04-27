@@ -7,5 +7,5 @@
 - [x] Counter App
 - [x] Todo App
 - [x] Meal API 
-- [ ] Clculator
+- [x] Calculator
 - [ ] 
