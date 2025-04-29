@@ -8,4 +8,5 @@
 - [x] Todo App
 - [x] Meal API 
 - [x] Calculator
+- [x] Toggle Background
 - [ ] 
