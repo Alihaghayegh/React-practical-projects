@@ -9,4 +9,5 @@
 - [x] Meal API 
 - [x] Calculator
 - [x] Toggle Background
+- [x] Hiden Search Bar 
 - [ ] 
