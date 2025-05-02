@@ -10,4 +10,5 @@
 - [x] Calculator
 - [x] Toggle Background
 - [x] Hiden Search Bar 
+- [x] Accordions
 - [ ] 
